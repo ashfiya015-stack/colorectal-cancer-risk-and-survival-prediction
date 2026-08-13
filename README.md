@@ -208,6 +208,7 @@ Conclusion
 ---
 
 ##⚠️ Limitations
+
 -This is an observational dataset.
 -Associations found in the analysis do not establish causation.
 -The analysis should not be used for individual medical decisions.
@@ -216,6 +217,7 @@ Conclusion
 ---
 
 📚 Skills Demonstrated
+
 -This project demonstrates practical skills in:
 -Data Cleaning
 -Exploratory Data Analysis
@@ -250,6 +252,7 @@ Aspiring Data Analyst | Python | Pandas | Data Visualization | Exploratory Data 
 ---
 
 ⭐ Project Highlights
+
 ✔ 89K+ patient records analyzed
 ✔ 30 variables explored
 ✔ Comprehensive EDA
