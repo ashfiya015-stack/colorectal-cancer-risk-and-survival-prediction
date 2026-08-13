@@ -178,88 +178,92 @@ The project includes:
 ---
 
 ## 📌 Project Workflow
+
+
 Raw Dataset
-     ↓
+    ↓
 Data Loading
-     ↓
+    ↓
 Data Inspection
-     ↓
+    ↓
 Data Quality Assessment
-     ↓
+    ↓
 Exploratory Data Analysis
-     ↓
+    ↓
 Demographic Analysis
-     ↓
+    ↓
 Clinical Analysis
-     ↓
+    ↓
 Lifestyle Analysis
-     ↓
+    ↓
 Healthcare & Treatment Analysis
-     ↓
+    ↓
 Recurrence Analysis
-     ↓
+    ↓
 Correlation Analysis
-     ↓
+    ↓
 Comparative Analysis
-     ↓
+    ↓
 Key Findings
-     ↓
+    ↓
 Conclusion
----
+
 
 ## ⚠️ Limitations
 
--This is an observational dataset.
--Associations found in the analysis do not establish causation.
--The analysis should not be used for individual medical decisions.
--Results depend on the quality and completeness of the available dataset.
--Further statistical or clinical validation would be required for real-world medical applications.
----
+- This is an observational dataset.
+- Associations found in the analysis do not establish causation.
+- The analysis should not be used for individual medical decisions.
+- Results depend on the quality and completeness of the available dataset.
+- Further statistical or clinical validation would be required for real-world medical applications.
 
-##📚 Skills Demonstrated
+## 🧰 Skills Demonstrated
 
--This project demonstrates practical skills in:
--Data Cleaning
--Exploratory Data Analysis
--Data Quality Assessment
--Descriptive Statistics
--Group-by Analysis
--Percentage Analysis
--Data Visualization
--Correlation Analysis
--Comparative Analysis
--Insight Generation
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--Jupyter Notebook
--GitHub Documentation
----
+This project demonstrates practical skills in:
 
-##  ⚠️ Disclaimer
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Quality Assessment
+- Descriptive Statistics
+- Group-by Analysis
+- Percentage Analysis
+- Data Visualization
+- Correlation Analysis
+- Comparative Analysis
+- Insight Generation
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- GitHub Documentation
 
--This project is created for educational and portfolio purposes. 
--The analysis presents patterns and associations observed in the dataset and 
--should not be interpreted as medical advice, clinical guidance, or a diagnostic tool.
----
+## ⚠️ Disclaimer
+
+This project is created for educational and portfolio purposes.
+The analysis presents patterns and associations observed in the dataset
+and should not be interpreted as medical advice, clinical guidance,
+or a diagnostic tool.
 
 ## 👩‍💻 Author
-Ashfiya
 
-Aspiring Data Analyst | Python | Pandas | Data Visualization | Exploratory Data Analysis
----
+**Ashfiya**
+
+Aspiring Data Analyst | Python | SQL | Pandas | Data Visualization | Exploratory Data Analysis
+
+This project was developed as part of my data analytics portfolio to demonstrate practical skills in data cleaning, exploratory analysis, visualization, and insight generation.
+
 
 ## ⭐ Project Highlights
 
-✔ 89K+ patient records analyzed
-✔ 30 variables explored
-✔ Comprehensive EDA
-✔ Demographic & clinical analysis
-✔ Lifestyle & healthcare analysis
-✔ Survival & recurrence analysis
-✔ Multiple professional visualizations
-✔ Correlation analysis
-✔ Insight-driven conclusions
-✔ Fully documented Jupyter Notebook
+- 📊 Analyzed 89,945 colorectal cancer patient records.
+- 🔍 Explored 30 demographic, lifestyle, clinical, healthcare, treatment, and outcome variables.
+- 🧹 Performed data quality assessment, including missing-value and duplicate checks.
+- 📈 Created multiple visualizations to identify important patterns and relationships.
+- 🧬 Analyzed survival patterns across demographic and clinical groups.
+- 🔄 Investigated cancer recurrence and time-to-recurrence patterns.
+- 🏥 Examined healthcare access and treatment-related factors.
+- 📉 Performed correlation and comparative analysis.
+- 💡 Generated data-driven insights from exploratory analysis.
+- 🐍 Built the complete analysis using Python, Pandas, NumPy, Matplotlib, and Seaborn.
