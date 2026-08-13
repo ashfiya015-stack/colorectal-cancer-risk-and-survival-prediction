@@ -208,60 +208,39 @@ Conclusion
 ---
 
 ##⚠️ Limitations
-This is an observational dataset.
-
-Associations found in the analysis do not establish causation.
-
-The analysis should not be used for individual medical decisions.
-
-Results depend on the quality and completeness of the available dataset.
-
-Further statistical or clinical validation would be required for real-world medical applications.
+-This is an observational dataset.
+-Associations found in the analysis do not establish causation.
+-The analysis should not be used for individual medical decisions.
+-Results depend on the quality and completeness of the available dataset.
+-Further statistical or clinical validation would be required for real-world medical applications.
 ---
 
 📚 Skills Demonstrated
-This project demonstrates practical skills in:
-
-Data Cleaning
-
-Exploratory Data Analysis
-
-Data Quality Assessment
-
-Descriptive Statistics
-
-Group-by Analysis
-
-Percentage Analysis
-
-Data Visualization
-
-Correlation Analysis
-
-Comparative Analysis
-
-Insight Generation
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
-
-GitHub Documentation
+-This project demonstrates practical skills in:
+-Data Cleaning
+-Exploratory Data Analysis
+-Data Quality Assessment
+-Descriptive Statistics
+-Group-by Analysis
+-Percentage Analysis
+-Data Visualization
+-Correlation Analysis
+-Comparative Analysis
+-Insight Generation
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Jupyter Notebook
+-GitHub Documentation
 ---
 
 ## ⚠️ Disclaimer
 
-This project is created for educational and portfolio purposes. 
-The analysis presents patterns and associations observed in the dataset and 
-should not be interpreted as medical advice, clinical guidance, or a diagnostic tool.
+-This project is created for educational and portfolio purposes. 
+-The analysis presents patterns and associations observed in the dataset and 
+-should not be interpreted as medical advice, clinical guidance, or a diagnostic tool.
 ---
 
 ##👩‍💻 Author
