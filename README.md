@@ -177,7 +177,7 @@ The project includes:
 
 ---
 
-##📌 Project Workflow
+## 📌 Project Workflow
 Raw Dataset
      ↓
 Data Loading
@@ -207,7 +207,7 @@ Key Findings
 Conclusion
 ---
 
-##⚠️ Limitations
+## ⚠️ Limitations
 
 -This is an observational dataset.
 -Associations found in the analysis do not establish causation.
@@ -216,7 +216,7 @@ Conclusion
 -Further statistical or clinical validation would be required for real-world medical applications.
 ---
 
-📚 Skills Demonstrated
+##📚 Skills Demonstrated
 
 -This project demonstrates practical skills in:
 -Data Cleaning
@@ -238,20 +238,20 @@ Conclusion
 -GitHub Documentation
 ---
 
-## ⚠️ Disclaimer
+##  ⚠️ Disclaimer
 
 -This project is created for educational and portfolio purposes. 
 -The analysis presents patterns and associations observed in the dataset and 
 -should not be interpreted as medical advice, clinical guidance, or a diagnostic tool.
 ---
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Ashfiya
 
 Aspiring Data Analyst | Python | Pandas | Data Visualization | Exploratory Data Analysis
 ---
 
-⭐ Project Highlights
+## ⭐ Project Highlights
 
 ✔ 89K+ patient records analyzed
 ✔ 30 variables explored
