@@ -175,6 +175,7 @@ The project includes:
 | Jupyter Notebook | Analysis environment |
 | GitHub | Project documentation & version control |
 
+---
 
 ##📌 Project Workflow
 Raw Dataset
@@ -204,6 +205,7 @@ Comparative Analysis
 Key Findings
      ↓
 Conclusion
+---
 
 ##⚠️ Limitations
 This is an observational dataset.
@@ -215,6 +217,7 @@ The analysis should not be used for individual medical decisions.
 Results depend on the quality and completeness of the available dataset.
 
 Further statistical or clinical validation would be required for real-world medical applications.
+---
 
 📚 Skills Demonstrated
 This project demonstrates practical skills in:
@@ -252,17 +255,20 @@ Seaborn
 Jupyter Notebook
 
 GitHub Documentation
+---
 
 ## ⚠️ Disclaimer
 
 This project is created for educational and portfolio purposes. 
 The analysis presents patterns and associations observed in the dataset and 
 should not be interpreted as medical advice, clinical guidance, or a diagnostic tool.
+---
 
 ##👩‍💻 Author
 Ashfiya
 
 Aspiring Data Analyst | Python | Pandas | Data Visualization | Exploratory Data Analysis
+---
 
 ⭐ Project Highlights
 ✔ 89K+ patient records analyzed
